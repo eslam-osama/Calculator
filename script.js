@@ -1,4 +1,4 @@
-// JavaScript document - Simple Web Calculator - Luciano Esteban (2021)
+// JavaScript document - Simple Web Calculator -
 
 // Fundamental constants & variables
 const topScreen = document.getElementById("nums-top");
