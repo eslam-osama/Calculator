@@ -1,4 +1,4 @@
-// JavaScript document - Simple Web Calculator -
+// JavaScript document - Simple Web Calculator - Eslam Osama
 
 // Fundamental constants & variables
 const topScreen = document.getElementById("nums-top");
